@@ -1,4 +1,4 @@
-# Data Visualization
+# Hotel Sales Analysis
 
 Data Analysis Project Pipeline
   1. Build a Database
